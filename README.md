@@ -1,4 +1,4 @@
-# Dynasas_Assignment :  This README file that provides an overview of the project, descriptions of the files, and instructions on how to use the program and visualization scripts.
+# Dynasas_Assignment :  This README file that provides an overview of the project, descriptions of the files.
 
 waveform_generator.cpp
 
